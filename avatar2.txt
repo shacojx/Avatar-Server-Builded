@@ -1,0 +1,4 @@
+*Xu So LocalHost
+LocalHost:127.0.0.1:19128
+Thanh Pho Dieu Ky:112.213.85.101:19128
+Thanh Pho Dieu Ky:112.213.85.101:19128

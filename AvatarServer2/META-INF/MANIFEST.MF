@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: lib/json-simple-1.1.1.jar lib/mysql-connector-java-5.1.44-
+ bin.jar lib/log4j-1.2.17.jar
+Created-By: TrungKenbi Game
+Main-Class: avatar.server.ServerAvatar
+
